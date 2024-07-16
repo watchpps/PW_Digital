@@ -2,6 +2,16 @@
 
 Access Token : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ3bXZlciI6Miwid21pZGZtdCI6ImFzY2lpIiwid21pZHR5cCI6MSwid21rZXl2ZXIiOjEsIndtaWRsZW4iOjUxMiwid21pZCI6IllURmhNbU5pWXpRdE5EUTJPUzAwWXpnMUxXRmxOalV0TVdaak5UaGhZMkprTjJRNCIsIndtb3BpZCI6MzIsImV4cCI6MTcxOTA3MzU1NiwiaWF0IjoxNzE4NDY5NTU2fQ.1MZ48uJveGACAHiQQndduFWrpHQU_kAXuJxZBNBXo1A
 
+###PowerTech###
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" group-title="PowerTech" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/fav-icon.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBO.png",411 HBO
+https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
+
+
 ###########################################################################SPORTS################################################################################
 
 
