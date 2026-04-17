@@ -1,11 +1,11 @@
 {
   "urls": [
            {
-      "url": "https://raw.githubusercontent.com/PowerTechott/baotv/main/bh1",
+      "url": "https://pub-60b683787b934b9f8f3fec5d354d72ff.r2.dev/bh1.txt",
       "name": "PowerTech VIP专线"
            },
            {
-      "url": "https://raw.githubusercontent.com/PowerTechott/baotv/main/fuli.json",
+      "url": "https://pub-60b683787b934b9f8f3fec5d354d72ff.r2.dev/fuli.json",
       "name": "PowerTech 福利专线"
           }
           ]
