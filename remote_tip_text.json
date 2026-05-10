@@ -1,0 +1,8 @@
+{
+  "tips": {
+    "text": "如果应用出现错误或无法读取资源，请在浏览器中打开下载链接，更新完成后，请使用相同的账号和密码重新登录。\n\n下载链接： https://bit.ly/ysph9",
+    "textSize": 16,
+    "textColor": "#ffff9260",
+    "marginLeft": 16
+  }
+}
